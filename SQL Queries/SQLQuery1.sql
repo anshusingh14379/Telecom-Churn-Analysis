@@ -1,0 +1,1 @@
+SELECT * FROM db_churn.dbo.stg_Churn
