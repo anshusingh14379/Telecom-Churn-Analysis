@@ -145,10 +145,15 @@ This insight can help businesses:
 # 📷 Project Screenshots
 
 ## Dashboard Preview
-_Add dashboard screenshots here_
+![Churn_Analysis_Dashboard](<img width="1328" height="724" alt="Churn_Analysis_Dashboard" src="https://github.com/user-attachments/assets/7c7d3a9b-fb1b-4e0f-9d69-5969e262e3ae" />
+)
+
+![Predicted_Churner_Dashboard](<img width="1340" height="760" alt="Predicted_Churner_Dashboard" src="https://github.com/user-attachments/assets/ee42be35-d344-4f71-8a06-2ba913b308b0" />
+)
 
 ## Project Pipeline
-_Add project workflow image here_
+![Project_Pipeline](<img width="578" height="605" alt="Screenshot 2026-05-20 163008" src="https://github.com/user-attachments/assets/d910653c-ac1d-474a-8474-1ebd86cd4d04" />
+)
 
 ---
 
