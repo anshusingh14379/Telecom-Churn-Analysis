@@ -179,7 +179,7 @@ This project helped me understand how Data Analytics and Machine Learning can so
 [My Linkedin Profile](https://www.linkedin.com/in/anshu-singh-b1538826a/)
 
 ## GitHub
-[My Github Profile]((https://github.com/anshusingh14379/)
+[My Github Profile](https://github.com/anshusingh14379/)
 
 ---
 
